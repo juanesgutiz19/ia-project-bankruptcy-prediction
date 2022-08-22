@@ -20,4 +20,6 @@ Debido a que en los distintos notebooks se hacen transformaciones a los datos ge
 
 ## Enlace vídeo entrega 2
 
+https://www.youtube.com/watch?v=N1s0aSqLXHM
+
 
