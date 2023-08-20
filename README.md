@@ -2,9 +2,9 @@
 
 ## Integrantes
 
-- Juan Esteban Gutiérrez Zuluaga - CC. 1152225177 - Ingeniería de Sistemas
-- Andrés Quintero Bedoya - CC. 1216727950 - Ingeniería de Sistemas
-- Andrés Felipe Grajales Acevedo - CC. 1037640035 - Ingeniería Civil
+- Juan Esteban Gutiérrez Zuluaga - CC. ********** - Ingeniería de Sistemas
+- Andrés Quintero Bedoya - CC. ********* - Ingeniería de Sistemas
+- Andrés Felipe Grajales Acevedo - CC. ********* - Ingeniería Civil
 
 ## Enlace a los datos originales
 
